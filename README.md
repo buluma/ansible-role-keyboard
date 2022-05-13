@@ -4,7 +4,7 @@ Role for configuring keyboard layout etc.
 
 |GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
 |------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-keyboard/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-keyboard/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-keyboard/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-keyboard)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/keyboard)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/keyboard)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/pulls/)|
+|[![github](https://github.com/buluma/ansible-role-keyboard/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-keyboard/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-keyboard/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-keyboard)|[![quality](https://img.shields.io/ansible/quality/59174)](https://galaxy.ansible.com/buluma/keyboard)|[![downloads](https://img.shields.io/ansible/role/d/59174)](https://galaxy.ansible.com/buluma/keyboard)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -73,7 +73,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |ubuntu|bionic, focal|
 |debian|all|
 
-The minimum version of Ansible required is 2.9, tests have been done to:
+The minimum version of Ansible required is 2.1, tests have been done to:
 
 - The previous version.
 - The current version.
@@ -89,8 +89,8 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-MIT
+Apache-2.0
 
 ## [Author Information](#author-information)
 
-[John Freeman](https://buluma.github.io/)
+[Michael Buluma](https://buluma.github.io/)
