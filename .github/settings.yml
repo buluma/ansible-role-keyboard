@@ -5,4 +5,4 @@
 repository:
   description: Role for configuring keyboard layout etc.
   homepage: https://buluma.github.io/
-  topics: keyboard, ubuntu, system, ansible, molecule, tox, playbook, hacktoberfest
+  topics: keyboard, ubuntu, system, ansible, molecule, tox, playbook
