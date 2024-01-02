@@ -1,10 +1,10 @@
-# [Ansible role keyboard](#keyboard)
+# Ansible role [keyboard](https://galaxy.ansible.com/ui/standalone/roles/buluma/keyboard/documentation)
 
 Role for configuring keyboard layout etc.
 
-|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-keyboard/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-keyboard/actions/workflows/molecule.yml)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-keyboard/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-keyboard)|[![downloads](https://img.shields.io/ansible/role/d/4747)](https://galaxy.ansible.com/buluma/keyboard)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-keyboard/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-keyboard/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-keyboard.svg)](https://github.com/buluma/ansible-role-keyboard/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/keyboard)](https://galaxy.ansible.com/ui/standalone/roles/buluma/keyboard/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -90,14 +90,9 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-keyboard/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-keyboard/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[Michael Buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-Please consider [sponsoring me](https://github.com/sponsors/buluma).
-
-### [Special Thanks](#special-thanks)
-
-Template inspired by [Robert de Bock](https://github.com/robertdebock)
