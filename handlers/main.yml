@@ -3,3 +3,4 @@
   become: yes
   ansible.builtin.command: /usr/sbin/dpkg-reconfigure -f noninteractive keyboard-configuration
   when: ansible_os_family == 'Debian'
+  changed_when: false
